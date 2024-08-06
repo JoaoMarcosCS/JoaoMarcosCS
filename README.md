@@ -1,45 +1,61 @@
-# Hi there 👋 I'm João Marcos
+<h1 align="left">Hey 👋 Me chamo João Marcos</h1>
 
-<br>
-<br>
-<h4>Frontend</h4>
-<p>
-<img src="https://img.shields.io/badge/next.js-1c1c1c?style=for-the-badge&logo=next.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-</p>
-<h4>Backend</h4>
-<p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Golang-0000ff?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+###
 
-<h4>Clouds</h4>
-<p>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<p align="left">💻 Desenvolvedor FullStack</p>
 
-<br>  
-  About me &#128513;
-  <p>
-  <b>
-  I`m a lover of technology &#128525; passionate about front end development, I work on my projects with Next a front framework that I really like.
-  i like to learn new technology and update myself. i also like to contribute in open sources projects
+###
 
+<h2 align="left">Sobre mim</h2>
 
-  working with you is already a pleasure for me &#128519;
-  </b>
-  </p>
+###
 
-- 🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
+<p align="left">Bem-vindo ao meu perfil do GitHub! 🚀<br><br>Sou um entusiasta da tecnologia com uma paixão por resolver desafios e aprender continuamente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e aplico os conhecimentos adquiridos em projetos práticos, que você pode explorar aqui. Possuo experiência de um ano como desenvolvedor júnior na empresa Step2Future.</p>
 
-<br>
+###
+
+<h2 align="left">🎯 Stacks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
+
+###
+
+<h2 align="left">Projetos relevantes</h2>
+
+###
+
+<p align="left">https://github.com/JoaoMarcosCS/JardimSaude</p>
+
+###
+
+<h2 align="left">🤝 Vamos Conectar?</h2>
+
+###
+
+<p align="left"></p>
+
+###
 
 ## Keep in touch with me 😊
-<a href="https://www.linkedin.com/in/guilhermecourbassier/">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-c%C3%A2ndido-da-silva-58b29227a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
