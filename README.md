@@ -50,11 +50,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-## Keep in touch with me 😊
 <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-c%C3%A2ndido-da-silva-58b29227a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
