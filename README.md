@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Bem-vindo ao meu perfil do GitHub! 🚀<br><br>Sou um entusiasta da tecnologia com uma paixão por resolver desafios e aprender continuamente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e aplico os conhecimentos adquiridos em projetos práticos, que você pode explorar aqui. Possuo experiência de um ano como desenvolvedor júnior na empresa Step2Future.</p>
+<p align="left">Bem-vindo ao meu perfil do GitHub! 🚀<br><br>Sou um apaixonado por desenvolvimento com uma paixão por resolver desafios e aprender continuamente. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e aplico os conhecimentos adquiridos em projetos práticos, que você pode explorar aqui. Possuo experiência de um ano como desenvolvedor júnior na empresa Step2Future.</p>
 
 ###
 
