@@ -44,7 +44,7 @@
 ###
 
 ## 🏆 Troféus do GitHub 
-![](https://github-profile-trophy.vercel.app/?username=JoaoMarcosCS&theme=highcontrast&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JoaoMarcosCS&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ###
 
