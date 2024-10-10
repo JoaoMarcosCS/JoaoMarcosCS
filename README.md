@@ -37,6 +37,12 @@
 </div>
 
 ###
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoMarcosCS&theme=gruvbox&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcosCS&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
+###
 
 <h2 align="left">Projetos relevantes</h2>
 
