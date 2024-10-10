@@ -41,6 +41,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoMarcosCS&theme=gruvbox&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcosCS&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+###
+
+## 🏆 Troféus do GitHub 
+![](https://github-profile-trophy.vercel.app/?username=JoaoMarcosCS&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ###
 
