@@ -5,7 +5,7 @@
 <p align="left">💻 Desenvolvedor FullStack</p>
 
 ###
-<br/>
+
 <h2 align="left">Sobre mim</h2>
 
 ###
@@ -37,16 +37,12 @@
 </div>
 
 ###
-<br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoMarcosCS&theme=highcontrast&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarcosCS&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ###
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoMarcosCS&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoMarcosCS&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
- 
-<br/>
+
 ## 🏆 Troféus do GitHub 
 ![](https://github-profile-trophy.vercel.app/?username=JoaoMarcosCS&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
